@@ -10,6 +10,7 @@ An aspiring software engineer with knowledge in software engineering practices s
 
 
 Skills: PYTHON / C++ / JS / HTML / CSS / Salesforce
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mithileshjoshi100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Salesforce | Python 
 - 🌱 I’m currently learning Web Devlopment 
