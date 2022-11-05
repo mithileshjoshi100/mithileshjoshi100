@@ -4,13 +4,15 @@
 #### I am Python Devloper | Web Devloper | Salesforce Devloper
 ![Mithilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithileshjoshi100&theme=tokyonight&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mithileshjoshi100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![I am Python Devloper | Web Devloper | Salesforce Devloper](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 An aspiring software engineer with knowledge in software engineering practices such as coding, testing, code reviews, code comments, etc. Strong ability to communicate with clients and ability to express ideas clearly and concisely. I also have a good knowledge of data structures and algorithms.
 
 
 Skills: PYTHON / C++ / JS / HTML / CSS / Salesforce
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mithileshjoshi100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on Salesforce | Python 
 - 🌱 I’m currently learning Web Devlopment 
