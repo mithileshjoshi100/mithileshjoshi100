@@ -1,12 +1,12 @@
 
 
 ## Hi there 👋, my name is Mithilesh Joshi
-#### I am Python Devloper | Web Devloper | Salesforce Devloper
+
 ![Mithilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithileshjoshi100&theme=tokyonight&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mithileshjoshi100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![I am Python Devloper | Web Devloper | Salesforce Devloper]
+#### I am Python Devloper | Web Devloper | Salesforce Devloper
 An aspiring software engineer with knowledge in software engineering practices such as coding, testing, code reviews, code comments, etc. Strong ability to communicate with clients and ability to express ideas clearly and concisely. I also have a good knowledge of data structures and algorithms.
 
 
