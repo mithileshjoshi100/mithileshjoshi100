@@ -1,9 +1,9 @@
-### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithileshjoshi100&theme=tokyonight&show_icons=true)
 
-### Hi there 👋, my name is Mithilesh Joshi
+## Hi there 👋, my name is Mithilesh Joshi
 #### I am Python Devloper | Web Devloper | Salesforce Devloper
+![Mithilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithileshjoshi100&theme=tokyonight&show_icons=true)
+
 ![I am Python Devloper | Web Devloper | Salesforce Devloper](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 An aspiring software engineer with knowledge in software engineering practices such as coding, testing, code reviews, code comments, etc. Strong ability to communicate with clients and ability to express ideas clearly and concisely. I also have a good knowledge of data structures and algorithms.
