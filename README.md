@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Mithilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithileshjoshi100)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithileshjoshi100&theme=dark&show_icons=true)
 
 ### Hi there 👋, my name is Mithilesh Joshi
 #### I am Python Devloper | Web Devloper | Salesforce Devloper
