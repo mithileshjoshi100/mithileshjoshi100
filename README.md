@@ -11,8 +11,7 @@ An aspiring software engineer with knowledge in software engineering practices s
 Skills: PYTHON / C++ / JS / HTML / CSS / Salesforce
 
 
-- 🔭 I’m currently working on Salesforce | Python 
-- 🌱 I’m currently learning Web Devlopment 
+- 🔭 I’m currently working on Salesforce | Python | Web Devlopment 
 - 💫 I’m currently learning AI, ML, NN
 <!--
 **mithileshjoshi100/mithileshjoshi100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
